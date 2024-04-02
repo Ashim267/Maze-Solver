@@ -18,18 +18,18 @@ Sample execution:
 MAZE SOLVER!! 
 Please enter name of file containing the maze: test1.txt 
 Here is the maze to be solved: 
----------- 
---      
-- 
-- - ---- - 
-- - -* - - 
-- - -- - - 
-- -    - - 
-- - ---- -
-- -- o-- - 
--       
-- 
----------- 
+########## 
+# #      
+# 
+# # #### # 
+# # #* # # 
+# # ## # # 
+# #    # # 
+# # #### # 
+# ## o## # 
+#        
+# 
+########## 
 Please select the type of agenda you want to use by entering its number: 
 1: Stack-based agenda 
 2: Queue-based agenda 
