@@ -18,7 +18,8 @@ Sample execution:
 MAZE SOLVER!! 
 Please enter name of file containing the maze: test1.txt 
 Here is the maze to be solved: 
-########## 
+
+# ########## 
 # #      
 # 
 # # #### # 
