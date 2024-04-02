@@ -1,12 +1,4 @@
-// File name: Main.java
-// Author: CS2201 Instructor
-// userid:
-// Email:
-// Class: CS2201 @ Vanderbilt U.
-// Assignment Number:
-// Description:  Determine if a maze has a solution (and print a trace).
-//    A basic exercise for stacks and queues (or any agenda-type container).
-// Last Changed:  8-2-2023
+
 
 import java.io.FileNotFoundException;
 import java.util.Scanner;
