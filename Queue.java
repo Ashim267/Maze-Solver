@@ -1,13 +1,4 @@
-// File name: Queue.java
-// Author: Ashim Chand
-// VUnetid: chanda
-// Email: ashim.chand@vanderbilt.edu
-// Class: CS2201 @ Vanderbilt U.
-// Honor Statement: Will not use unfair means
-// Assignment Number: 7
-// Description: Queue
-// Last Changed: 4/1/2024
-//
+
 
 // TODO
 // Define your generic Queue class here
