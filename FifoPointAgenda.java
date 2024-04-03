@@ -1,12 +1,4 @@
-// File name: FifoPointAgenda.java
-// Author: Ashim Chand
-// userid: chanda
-// Email: ashim.chand@vanderbilt.edu
-// Class: CS2201 @ Vanderbilt U.
-// Assignment Number: 7
-// Description:  Maintains an agenda of Points in FIFO order.
-//     Implements PointAgenda interface: add, remove, peek, isEmpty, size.
-// Last Changed: 4/1/2024
+
 
 // TODO
 // Define the FifoPointAgenda class here
