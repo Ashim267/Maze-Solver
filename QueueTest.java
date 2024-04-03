@@ -1,23 +1,10 @@
-// File name:Dblqueue.java
-// Author: Ashim Chand
-// userid: chanda
-// Email: ashimchand@vanderbilt.edu
-// Class: CS2201
-// Honor Statement: Will not use unfair means
-// Assignment Number: 6
-// Description: Dblqueue test
-// Last Changed: 3/26/2024
 
-/*import org.junit.jupiter.api.Test;
+
+import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 public class DblQueueTest {
 
-*//*    // TODO
-    // Dear CS2201 student... at this point you should be comfortable creating JUnit
-    // tests for the code that you write. Here is a starter file containing a single
-    // simple test. Please enhance this test to be complete, and then create additional
-    // tests to completely test the rest of the DblQueue class.
 
     @Test
     public void testDefaultConstructor() {
