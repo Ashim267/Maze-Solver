@@ -1,14 +1,4 @@
-// File name: MazeSolver.java
-// Author: Ashim Chand
-// userid: chanda
-// Email: chand.ashim@gmail.com
-// Class: CS2201 @ Vanderbilt U.
-// Assignment Number: 7
-// Description:  Class that solves a maze, given the maze and an agenda.
-// Last Changed:  4/1/2024
 
-// TODO 
-// Your job to fill in this file!
 
 
 import java.util.Scanner;
