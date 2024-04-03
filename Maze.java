@@ -1,19 +1,3 @@
-// File name: Maze.java
-// Author: CS2201 Instructor
-// userid:
-// Email:
-// Class: CS2201 @ Vanderbilt U.
-// Assignment Number:
-// Description:  Class implementation that represents a maze.
-//    A maze has walls, open locations, a start location, and an end location.
-//    The initial maze is read from a file. See problem spec for file format.
-//    Once the maze has been read from the file, it cannot be changed.
-//    The user can get a location from the maze, and keep track of which locations
-//    have been visited. Locations are represented by x-y coordinates or Point objects.
-//    The origin (0,0) is the lower left corner of the graph; the x-coordinate moves
-//    left to right across the x axis; the y-coordinate moves bottom to top up the y axis.
-// Last Changed:  8/2/2023
-
 
 import java.io.FileNotFoundException;
 import java.util.Scanner;
