@@ -1,12 +1,3 @@
-// File name: Point.java
-// Author: CS2201 Instructor
-// userid:
-// Email:
-// Class: CS2201 @ Vanderbilt U.
-// Assignment Number:
-// Description:  Represent a point via x & y coordinates.
-// Last Changed: 8-2-2023
-
 
 public class Point {
 
