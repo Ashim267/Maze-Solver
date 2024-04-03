@@ -1,13 +1,3 @@
-// File name: PointAgenda.java
-// Author: CS2201 Instructor
-// userid:
-// Email:
-// Class:
-// Assignment Number:
-// Description:  Maintains an agenda of Points to be visited.  Contains functions
-//     prototypes to add, remove, peek (retrieve next), and retrieve size of the
-//     agenda. THIS IS A JAVA INTERFACE.
-// Last Changed:  8-2-2023
 
 public interface PointAgenda {
 
